@@ -9,4 +9,5 @@ Requirements:
 - [Clampfit](http://mdc.custhelp.com/app/answers/detail/a_id/20260/~/axon%E2%84%A2-pclamp%E2%84%A2-11-electrophysiology-data-acquisition-%26-analysis-software)
 
 Converts all files in the current folder from .h5 to .atf
+
 Place the file somewhere in your permanent MATLAB path and then call convert
