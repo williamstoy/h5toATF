@@ -14,6 +14,8 @@ Converts WaveSurfer (HDF5, .h5) data files to Axon Text Files (ATF, .atf) for an
 ConvertAllWsToAtf(true, true)
 ```
 
-Converts all files in the current folder from .h5 to .atf
+Converts all Wavesurfer files in current folder from .h5 to .atf
+- first argument: overwrite exiting files with the same name
+- second argumetn: open converted files in clampfit when conversion finishes
 
-Place the file somewhere in your permanent MATLAB path and then call convert
+Converts all files in the current folder from .h5 to .atf
